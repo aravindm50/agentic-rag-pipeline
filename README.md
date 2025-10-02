@@ -19,11 +19,12 @@ This project implements a **lightweight Retrieval-Augmented Generation (RAG) sys
 
 ---
 
-assignment3/
-│── index_kb.ipynb # Notebook for preprocessing & indexing KB
+assignment3
+
 │── agentic_rag_simplified.ipynb # Notebook with LangGraph workflow
+
 │── self_critique_loop_dataset.json # Knowledge base (provided)
-│── requirements.txt
+
 │── README.md
 
 ---
